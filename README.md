@@ -16,6 +16,5 @@
 </ol>
 
 # Check out the demo here:
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=NRj9Vks7F1A&t=1s" type="video/mp4">  </source>
-</video>
+
+<a href="https://www.youtube.com/watch?v=NRj9Vks7F1A&t=1s"> </a>
