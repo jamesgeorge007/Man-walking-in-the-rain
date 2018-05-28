@@ -2,7 +2,7 @@
 
 ## *Man Walking in the rain*
 
- This is a DOS based animation done in the graphics library available in the C programming language.
+ This is a DOS based animation made using the C graphics library.
 
 
 ## *Scenes*
