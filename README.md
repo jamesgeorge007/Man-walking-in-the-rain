@@ -1,20 +1,16 @@
-# C-Graphics-animation-Man-walking-in-the-rain
+# C-Graphics-Animation
 
-# Basic Info
-<p>
+**Man Walking in the rain**
+
  This is a DOS based animation done in the graphics library available in the C programming language.
-</p>
 
-# Scenes
 
-<ol>
+**Scenes**
 
-<li> Walking with an umbrella. </li>
-<li> Cycling. </li>
-<li> Cycling towards home. </li>
+- Walking with an umbrella. 
+- Cycling. 
+- Cycling towards home. 
 
-</ol>
+**Check out the demo here:**
 
-# Check out the demo here:
-
-<a href="https://www.youtube.com/watch?v=NRj9Vks7F1A&t=1s"> On Youtube </a>
+[Youtube](https://www.youtube.com/watch?v=NRj9Vks7F1A&t=1s)
